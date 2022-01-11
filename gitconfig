@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = josedasarquis@gmail.com
+	name = Jose Sarquis
